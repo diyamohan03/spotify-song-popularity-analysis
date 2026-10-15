@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Environment and secrets
+.env
+
+# Data (download separately, see README)
+data/
+*.csv
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
